@@ -1,0 +1,13 @@
+.text{
+    font-weight: bold;
+    color: black;
+}
+.text-color{
+    color: gray;
+}
+.main{
+    margin: auto;
+    max-width: 900px;
+    border: rgb(214, 214, 214) solid 1px;
+    overflow: hidden;
+}
