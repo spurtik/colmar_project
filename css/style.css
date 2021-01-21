@@ -11,3 +11,9 @@
     border: rgb(214, 214, 214) solid 1px;
     overflow: hidden;
 }
+.footer{
+    border-style: solid;
+}
+.footer-span{
+    float: right;
+}
