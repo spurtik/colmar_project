@@ -12,7 +12,7 @@
     overflow: hidden;
 }
 .footer{
-    border-style: solid;
+    border-top: solid gainsboro;
 }
 .footer-span{
     float: right;
